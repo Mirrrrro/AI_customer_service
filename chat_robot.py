@@ -1,3 +1,10 @@
+'''
+文件描述：基于微信公众号实现AI客服
+作者：Mirrrrro
+邮箱：13006185248@163.com
+
+'''
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
