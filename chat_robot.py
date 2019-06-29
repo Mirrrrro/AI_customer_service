@@ -18,6 +18,8 @@ def get_robot_reply(question):
 
     if "你叫什么名字" in question:
         answer = "我是poiu"
+    elif "我还有多少钱" in question:
+        answer = "88888888$"
     elif "你多少岁" in question:
         answer = "3"
     elif "你是GG还是MM" in question:
