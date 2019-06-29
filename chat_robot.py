@@ -37,4 +37,8 @@ def get_robot_reply(question):
 
     return answer
 
-
+if __name__ == "__main__":
+    while True:
+        question = input("\n我说：")
+        answer = get_robot_reply(question)
+        print("\n小魔仙说：%s" % answer)
